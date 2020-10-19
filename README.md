@@ -23,5 +23,6 @@
   - rds.py - Add AWS KEY and SECRET ([how to](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html))
   - python3 vpc.py (it will take few mins to create VPC)
   - python3 rds.py (it will take 10-15mins to create RDS)
+  - python3 s3.py (it will take 20seconds to create bucket)
 
 
